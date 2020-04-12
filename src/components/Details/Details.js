@@ -41,6 +41,7 @@ class Details extends Component {
         }
         return (
             <div className="container">
+              <h2>Get letest updated   information through Api </h2>
               <Summary  summary={this.state.global} date={this.state.date} countries={this.state.countries}  />
               <Countries countries={this.state.countries} />
             </div>
