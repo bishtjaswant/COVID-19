@@ -1,0 +1,21 @@
+ table {
+     border-collapse: collapse;
+     width: 90%;
+     margin: 10px auto;
+border-spacing: 0 6px;
+ }
+
+ table thead  tr { 
+     width: 12px;
+     background-color: #2D3436;
+     color: white;
+     text-transform: capitalize;
+     height: 34px;
+ } 
+
+ table tbody tr td{
+     padding: 12px;
+     background-color:#b2bec3;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
